@@ -4,7 +4,7 @@ Album = "WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?" #album title
 
 Min = "3"
 Sec = "14"
-Duration = Min + ":" + Sec #sond time
+Duration = Min + ":" + Sec #song time
 
 print(Artist)
 print(Song)
